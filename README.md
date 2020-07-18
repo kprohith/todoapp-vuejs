@@ -1,5 +1,5 @@
 # Todo App
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b5b0261f-8721-46b2-aa6c-647a5199907a/deploy-status)](https://app.netlify.com/sites/suspicious-nightingale-b73988/deploys)
 ## Project setup
 ```
 npm install
